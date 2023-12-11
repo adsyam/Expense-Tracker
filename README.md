@@ -97,6 +97,7 @@ You can access the live API at [https://expense-tracker-api-3lv5.onrender.com/ap
 ### Set the Environment Variables:
 - url: http://localhost:8000/api
 - accessToken: **This should be automated by adding the test config below**
+- **(Optional to test the live link)** liveUrl: https://expense-tracker-api-3lv5.onrender.com/api/
 
 ### Tests Config for register and login routes:
 - This is for automating the Access Token...
